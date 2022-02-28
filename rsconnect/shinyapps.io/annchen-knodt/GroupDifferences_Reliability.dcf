@@ -1,0 +1,13 @@
+name: GroupDifferences_Reliability
+title: GroupDifferences_Reliability
+username:
+account: annchen-knodt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5587110
+bundleId: 5546481
+url: https://annchen-knodt.shinyapps.io/GroupDifferences_Reliability/
+when: 1644071747.70668
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: GroupDifferences_simulation.R
